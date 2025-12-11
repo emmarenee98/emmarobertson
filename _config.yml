@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "IMG_6401.png"
   name             : "Emma Robertson"
-  pronouns         :  "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "LMU Munich"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate in Physical Oceanography"
+  location         : "Munich, Germany"
+  employer         : "LMU Munich, Alfred Wegener Institute"
   uri              : # URL
   email            : "emma.robertson@awi.de" 
 
